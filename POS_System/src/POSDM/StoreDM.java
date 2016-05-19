@@ -8,6 +8,7 @@ public class StoreDM {
 	
 	// This should be in first commit
 	// This is in second commit
+	// third commit
 
 /**
  * loadStore(store) looks for data in the file with given file name. It creates new
